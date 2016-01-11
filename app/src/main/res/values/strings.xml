@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FutesUI</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+
+    <string name="action_settings">Beállítások</string>
+    <string name="title_activity_display_message">Üzenet</string>
+    <string name="boiler_service_url">http://192.168.130.4/boilerservice</string>
+</resources>
